@@ -7,3 +7,9 @@
 |[Repeat String](https://github.com/bqelibari/learn-swift/blob/main/repeatStr.swift)| Return a string, containing the given string n times.|
 |[Expressions Matter](https://github.com/bqelibari/learn-swift/blob/main/expressionsMatter.swift)| Given three numbers, calculate the expression which results in the biggest possible integer.|
 |[To NATO Phonetic](https://github.com/bqelibari/learn-swift/blob/main/toNatoPhonetic.swift)| Given a string, convert it into NATO Phonetic Spelling.|
+|[Array Cheat Sheet](https://github.com/bqelibari/learn-swift/blob/main/arrayCheatSheet.swift)| A file demonstrating how most of the array methods work|
+|[Digitize](https://github.com/bqelibari/learn-swift/blob/main/digitize.swift)| Convert a number into a reversed array of the numbers digits|
+|[Expanded Form](https://github.com/bqelibari/learn-swift/blob/main/expandedForm.swift)|A function which splits a number into its components. e.g 13042 = 10000 + 3000 + 40 + 2
+|[Shortest word](https://github.com/bqelibari/learn-swift/blob/main/findShortestWord.swift)|Finds the shortest word in a sentence and returns its length|
+|[Summation](https://github.com/bqelibari/learn-swift/blob/main/summation.swift)|Make use of simple math to calculate the sum of the numbers 1...n|
+|[]()||
